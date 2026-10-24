@@ -5,25 +5,17 @@
   />
 </p>
 
-<!--![Developer Banner 5](https://ishan-rest.vercel.app/svg/banner/dev5/Welcome)-->
-
 ---
 
-# **`Programação Orientada a Objetos 1 (Object-Oriented Programming 1)`**
+# **`Programação Orientada a Objetos (Object-Oriented Programming )`**
 
 >[!IMPORTANT]
 > Este repositório tem como foco principal mostrar os projetos e atividades desenvolvidos na disciplina de Programação Orientada a Objetos 1, lecionada pelo professor José Antonio Gonçalves. A linguagem utilizada em toda a disciplina foi Java.
 
 ---
 
->[!IMPORTANT]
-> This repository primarily aims to showcase the projects and activities developed in the Object-Oriented Programming 1 course, taught by Professor José Antonio Gonçalves. The programming language used throughout the course was Java.
 
-
----
-
-<details>
-  <summary><strong>📂 Estrutura do Repositório (Repository Structure)</strong></summary>
+<strong>📂 Estrutura do Repositório (Repository Structure)</strong>
 <pre>
 ├── OthersExercises
 │   ├── Exerc_FerramCarlosGabrielBaratieri
@@ -117,7 +109,7 @@
 │   └── Volume.java
 └── README.md
 </pre>
-</details>
+
 
 ---
 
@@ -126,35 +118,6 @@
 >Os requisitos a serem atendidos incluíam:
 aplicação dos conceitos de diagrama de classes, reflexividade, encapsulamento (public e private), herança, polimorfismo (sobrecarga e sobrescrita), interface e dois tratamentos de exceção (sem multicatching). Não era permitido fazer uso de packages, interface gráfica (nessa etapa) e entre outros requisitos.
 
->[!NOTE]
->The Partial Project aimed to implement a Manga Stock System for a second-hand bookstore. Since it was a partial project, only the operations of registration, query, and deletion were developed. The Adjusted Project is a modification of the original to address the professor's corrections. 
->The requirements to be met included:  
->application of class diagram concepts, reflexivity, encapsulation (public and private), inheritance, polymorphism (overloading and overriding), interface, and two exception handlings (without multicatching). The use of packages, graphical interface (at this stage), and other features were not allowed.
-<!--
-![Graph Project](OthersExercises/project.svg)
-
----
-
-## Repositório Recomendado (Recommended Repository)
-
-<p align="center">
-  <a href="https://github.com/fuyuakii/StudyTopics">
-    <img src="https://svg.bookmark.style/api?url=https://github.com/fuyuakii/StudyTopics&mode=dark&style=horizontal" alt="StudyTopics"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td><img src="https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/https://github.com/fuyuakii/Object-Oriented-Programming" width="600"/></td>
-      <td><img src="https://ishan-rest.vercel.app/svg/banner/blackhole/:)" width="400"/></td>
-    </tr>
-  </table>
-</p>
-
--->
 ---
 
 
