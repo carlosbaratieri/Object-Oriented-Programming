@@ -14,8 +14,9 @@
 
 ---
 
-
 <strong>📂 Estrutura do Repositório (Repository Structure)</strong>
+<details>
+  <summary><b>Abrir para visualizar (Open to view)</b></summary>
 <pre>
 ├── OthersExercises
 │   ├── Exerc_FerramCarlosGabrielBaratieri
@@ -109,7 +110,7 @@
 │   └── Volume.java
 └── README.md
 </pre>
-
+</details>
 
 ---
 
